@@ -5,5 +5,5 @@
 * npx hardhat compile
 * copy abi field from artifacts/contracts/mycontract.sol/Splitwise.json to scripts.js
 * npx hardhat node
-* npx hardhat run --network local sripts/deploy.js
+* npx hardhat run --network local scripts/deploy.js
 * open index.html
